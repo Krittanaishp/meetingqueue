@@ -1,0 +1,14 @@
+vendor/
+.env
+*.sql
+!schema.sql
+uploads/*
+!uploads/.gitkeep
+!uploads/meeting_images/.gitkeep
+!uploads/bookings/.gitkeep
+backups/*
+!backups/.htaccess
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
